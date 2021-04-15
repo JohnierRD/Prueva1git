@@ -1,3 +1,6 @@
 PRIMER ARCHIVO 
 2do paso
 3
+4git status
+op
+er
